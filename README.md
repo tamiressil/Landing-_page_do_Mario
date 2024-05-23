@@ -6,13 +6,10 @@
   
  - Projeto construído durante o curso PROPROFISSÃO do Instituto PROA.
    
-   ## Link do video:
+# Link do video:
 
  [Clique aqui para acessar!!](https://www.youtube.com/watch?v=6Ok-kUrBGp8)
 
-
-  #  Veja a página aqui:
- [Veja-o aqui!]()
    
 ## Tecnologias Aprendidas:
  - HTML.
